@@ -14,11 +14,14 @@ I build AI-oriented systems that combine retrieval, orchestration, provider rout
 
 ## What I build
 
+- **Custom RAG and database-backed systems** for retrieval, indexing, metadata pipelines, semantic search, and source-aware orchestration.
 - **Agentic systems** with explicit orchestration, reviewer loops, runtime contracts, and quality gates.
 - **AI infrastructure** for model/provider routing, key balancing, client isolation, MCP-style tooling, and local gateways.
 - **Local-first applications** that keep useful data on the user's machine: galleries, metadata indexes, sandboxes, registries, and export pipelines.
 - **Experimental interfaces** where aesthetics and architecture are both part of the product: CRT terminals, simulations, procedural assets, and interactive visual proof.
 - **Unusual multi-language stacks** when they make sense: Python, Rust, TypeScript, FreePascal, PHP, Lua, and plain JavaScript all have their place.
+
+> Some of my larger RAG/database research and implementation work is staged in private repositories. Public documentation and reproducibility packs are published gradually as claims, limitations, and safety boundaries become clear.
 
 ---
 
@@ -139,7 +142,7 @@ I usually prefer systems where the moving parts are visible: state machines over
 
 ## Current direction
 
-I am currently focused on **AI orchestration**, **RAG/vector systems**, **local developer tools**, **model/provider routing**, and **verification-friendly research prototypes**. Some larger research work is staged privately until the claims, limitations, and reproducibility boundaries are clear.
+I am currently focused on **AI orchestration**, **RAG/vector systems**, **database-backed retrieval**, **local developer tools**, **model/provider routing**, and **verification-friendly research prototypes**. Some larger research work is staged privately until the claims, limitations, and reproducibility boundaries are clear.
 
 ---
 
