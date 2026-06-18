@@ -62,18 +62,13 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
     <td>Cyber-occult local AI chat system with a retro CRT interface, PostgreSQL-backed accounts/history, FreePascal backend daemon, Lua provider balancer, Pascal sandbox, RAG/search tools, Canvas effects, and Web Audio atmosphere.</td>
     <td>FreePascal, PHP 8.3, Lua/LuaJIT, PostgreSQL, Docker, JavaScript, Canvas, Web Audio</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/Lotargo/The-Living-Bunker"><b>The Living Bunker</b></a></td>
-    <td>Autonomous-agent semiotic simulation with human residents, invisible anomalies, procedural assets, and Luna — an AI cat constrained to communicate only through "Meow" while still trying to warn everyone.</td>
-    <td>Python, Flask, TypeScript/JavaScript, Groq, Cerebras, Pillow, pytest</td>
-  </tr>
 </table>
 
 ---
 
 ## Research / Proofs of Concept
 
-These projects are not positioned as production-ready applications. They are experiments, verification artifacts, and architecture probes.
+These projects are not positioned as production-ready applications. They are experiments, active prototypes, verification artifacts, and architecture probes.
 
 <table>
   <tr>
@@ -88,6 +83,14 @@ These projects are not positioned as production-ready applications. They are exp
     </td>
     <td>Minimal two-stage LLM routing pipeline implemented in Pascal and x86-64 Assembly to test how little runtime support is required for client-side AI routing logic.</td>
     <td>FreePascal, x86-64 Assembly, Groq API, curl/OpenSSL</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Lotargo/The-Living-Bunker"><b>The Living Bunker</b></a><br>
+      <img src="https://img.shields.io/badge/status-active%20prototype-F39C12?style=flat-square" alt="Active prototype" />
+    </td>
+    <td>Observable multi-agent society sandbox for testing AI roles, asymmetric perception, constrained communication, repeatable scenarios, and emergent social behavior in a shared world.</td>
+    <td>Python, Flask, TypeScript/JavaScript, Groq, Cerebras, Pillow, pytest</td>
   </tr>
 </table>
 
