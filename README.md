@@ -78,6 +78,14 @@ These projects are not positioned as production-ready applications. They are exp
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Lotargo/verification-lab-1"><b>Verification Lab</b></a><br>
+      <img src="https://img.shields.io/badge/status-reproducibility%20lab-2ECC71?style=flat-square" alt="Reproducibility lab" />
+    </td>
+    <td>Reproducible verification laboratory for retrieval-pipeline integrity: analytical correctness, adversarial rejection, singular-state handling, and independently audited SAT/3-SAT solver experiments.</td>
+    <td>Python, numerical verification, symbolic checks, SAT/DPLL/CDCL, reproducibility packs</td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Lotargo/Search_Routers"><b>Search Routers</b></a><br>
       <img src="https://img.shields.io/badge/status-proof--of--concept-9B59B6?style=flat-square" alt="Proof of Concept" />
     </td>
