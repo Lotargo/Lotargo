@@ -33,7 +33,7 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
   <tr>
     <td>
       <a href="https://github.com/Lotargo/Academic-Pipeline-Engine"><b>Academic Pipeline Engine</b></a><br>
-      <sub><a href="https://lotargo.github.io/Academic-Pipeline-Engine/">Live landing</a></sub>
+      <a href="https://lotargo.github.io/Academic-Pipeline-Engine/"><img src="https://img.shields.io/badge/landing-live-00D1FF?style=flat-square&logo=githubpages&logoColor=white" alt="Live landing" /></a>
     </td>
     <td>Local agentic workspace for structured document generation: artifact routing, runtime contracts, Writer/Reviewer loop, FSM orchestration, OCR/web research, SQLite history, and DOCX/PDF export.</td>
     <td>Python 3.12, FastAPI, Next.js, React, TypeScript, SQLite, Poetry, Docker</td>
@@ -41,7 +41,7 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
   <tr>
     <td>
       <a href="https://github.com/Lotargo/Nexus_API_Balancer"><b>Nexus API Balancer</b></a><br>
-      <sub><a href="https://lotargo.github.io/Nexus_API_Balancer/">Live landing</a></sub>
+      <a href="https://lotargo.github.io/Nexus_API_Balancer/"><img src="https://img.shields.io/badge/landing-live-00D1FF?style=flat-square&logo=githubpages&logoColor=white" alt="Live landing" /></a>
     </td>
     <td>High-performance Rust proxy and intelligent key balancer for AI providers with dynamic model discovery, priority routing, OpenAI-compatible gateway, client isolation, and MCP support.</td>
     <td>Rust 2024, Tokio, Axum, SQLx, SQLite, JWT, Scalar</td>
@@ -49,7 +49,7 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
   <tr>
     <td>
       <a href="https://github.com/Lotargo/ComfyUI-Meta-Viewer"><b>ComfyUI Meta Viewer</b></a><br>
-      <sub><a href="https://lotargo.github.io/ComfyUI-Meta-Viewer/">Live landing</a></sub>
+      <a href="https://lotargo.github.io/ComfyUI-Meta-Viewer/"><img src="https://img.shields.io/badge/landing-live-00D1FF?style=flat-square&logo=githubpages&logoColor=white" alt="Live landing" /></a>
     </td>
     <td>Local gallery and metadata manager for ComfyUI images: prompt extraction, workflow graph inspection, EXIF parsing, folder indexing, object cutouts, and persistent SQLite cache.</td>
     <td>Python, Flask, SQLite, Pydantic, Pillow, Vanilla JS, Fuse.js</td>
@@ -57,7 +57,7 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
   <tr>
     <td>
       <a href="https://github.com/Lotargo/Necromancer"><b>Necromancer</b></a><br>
-      <sub><a href="https://lotargo.github.io/Necromancer/">Live landing</a></sub>
+      <a href="https://lotargo.github.io/Necromancer/"><img src="https://img.shields.io/badge/landing-live-00D1FF?style=flat-square&logo=githubpages&logoColor=white" alt="Live landing" /></a>
     </td>
     <td>Cyber-occult local AI chat system with a retro CRT interface, PostgreSQL-backed accounts/history, FreePascal backend daemon, Lua provider balancer, Pascal sandbox, RAG/search tools, Canvas effects, and Web Audio atmosphere.</td>
     <td>FreePascal, PHP 8.3, Lua/LuaJIT, PostgreSQL, Docker, JavaScript, Canvas, Web Audio</td>
