@@ -71,6 +71,28 @@ I like turning strange ideas into runnable systems: agentic pipelines, provider 
 
 ---
 
+## Research / Proofs of Concept
+
+These projects are not positioned as production-ready applications. They are experiments, verification artifacts, and architecture probes.
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Research angle</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Lotargo/Search_Routers"><b>Search Routers</b></a><br>
+      <img src="https://img.shields.io/badge/status-proof--of--concept-9B59B6?style=flat-square" alt="Proof of Concept" />
+    </td>
+    <td>Minimal two-stage LLM routing pipeline implemented in Pascal and x86-64 Assembly to test how little runtime support is required for client-side AI routing logic.</td>
+    <td>FreePascal, x86-64 Assembly, Groq API, curl/OpenSSL</td>
+  </tr>
+</table>
+
+---
+
 ## Engineering style
 
 ```text
