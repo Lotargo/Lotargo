@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=750&color=36BCF7&center=true&vCenter=true&width=860&lines=AI+systems+%E2%80%A2+RAG+%E2%80%A2+agentic+pipelines;Local-first+tools+with+real+interfaces;Runtime+contracts+%2B+state+machines+%2B+provider+routing;From+experimental+ideas+to+working+software" alt="Typing SVG" />
 
-**AI/RAG engineer · local-first toolmaker · systems architecture enjoyer**
+**AI/RAG engineer · local-first tooling · verification-focused systems**
 
-I like turning strange ideas into runnable systems: agentic pipelines, provider balancers, local AI tools, experimental simulations, and interfaces that do not look like they came from a sad enterprise basement.
+I build AI-oriented systems that combine retrieval, orchestration, provider routing, local-first tooling, and verification. My focus is turning experimental ideas into runnable systems with visible architecture, reproducible behavior, and clear failure boundaries.
 
 </div>
 
@@ -139,7 +139,7 @@ I usually prefer systems where the moving parts are visible: state machines over
 
 ## Current direction
 
-I am focusing on **AI orchestration**, **RAG/vector systems**, **local developer tools**, **model/provider routing**, and **verification-friendly demos**. Some work is public, some is private, and some is still in the dangerous swamp between "this should not work" and "wait, why does it work?" 🧪
+I am currently focused on **AI orchestration**, **RAG/vector systems**, **local developer tools**, **model/provider routing**, and **verification-friendly research prototypes**. Some larger research work is staged privately until the claims, limitations, and reproducibility boundaries are clear.
 
 ---
 
