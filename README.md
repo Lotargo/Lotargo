@@ -77,7 +77,7 @@ idea
 
 Sonata implements a custom tensor computation, automatic differentiation, and neural-network training runtime from scratch. The private runtime is built primarily in **Free Pascal**, accelerated with **x86-64 Assembly** and a **CUDA C++ GPU backend**. The public repository is not the source code; it is a curated technical dossier containing selected architecture notes, benchmark evidence, limitations, and claim boundaries.
 
-**Open:** **[Evidence dossier repository](https://github.com/Lotargo/public_sonata_ai_landing)** · **[Browse public dossier](https://lotargo.github.io/public_sonata_ai_landing/)**  
+**Open:** **[Evidence dossier repository](https://github.com/Lotargo/public_sonata_ai_landing)** · **[Live landing](https://lotargo.github.io/public_sonata_ai_landing/)**  
 **Status:** Closed-source research platform · public evidence archive  
 **Demonstrates:** custom tensor/autograd runtime, GPU execution, INT8 quantization, Mamba-style sequence modeling, symbolic-control experiments, transport framing, and evidence-first documentation.  
 **Stack:** Free Pascal, x86-64 Assembly, CUDA C++, custom runtime, GPU kernels, technical dossier.
