@@ -8,7 +8,7 @@
 
 I build AI-oriented systems where the moving parts are visible: custom runtimes, retrieval infrastructure, provider routing, local-first tools, runtime contracts, and verification-focused prototypes.
 
-**Start here:** [Sonata AI dossier](https://github.com/Lotargo/public_sonata_ai_landing) · [Featured systems](#featured-systems) · [Research labs](#research--proofs-of-concept) · [Toolbox](#toolbox)
+**Start here:** [Sonata AI dossier](https://github.com/Lotargo/public_sonata_ai_landing) · [Browse dossier](https://lotargo.github.io/public_sonata_ai_landing/) · [Featured systems](#featured-systems) · [Research labs](#research--proofs-of-concept) · [Toolbox](#toolbox)
 
 </div>
 
@@ -34,15 +34,15 @@ I build AI-oriented systems where the moving parts are visible: custom runtimes,
 
 ## Proof snapshot
 
-| Area | Public evidence |
-|---|---|
-| From-scratch AI runtime | [Sonata AI public evidence dossier](https://github.com/Lotargo/public_sonata_ai_landing) |
-| AI provider infrastructure | [Nexus API Balancer](https://github.com/Lotargo/Nexus_API_Balancer) · [Live landing](https://lotargo.github.io/Nexus_API_Balancer/) |
-| Agentic document systems | [Academic Pipeline Engine](https://github.com/Lotargo/Academic-Pipeline-Engine) · [Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/) |
-| Static browser runtime experiments | [CSS-Server](https://github.com/Lotargo/css-server) · [Live landing](https://lotargo.github.io/css-server/) |
-| Local-first AI tooling | [ComfyUI Meta Viewer](https://github.com/Lotargo/ComfyUI-Meta-Viewer) · [Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/) |
-| Verification mindset | [Verification Lab](https://github.com/Lotargo/verification-lab-1) |
-| Unusual multi-language systems | [Necromancer](https://github.com/Lotargo/Necromancer) · [Search Routers](https://github.com/Lotargo/Search_Routers) |
+| Area | Repository / evidence | Live page |
+|---|---|---|
+| From-scratch AI runtime | [Sonata AI public evidence dossier](https://github.com/Lotargo/public_sonata_ai_landing) | [Browse dossier](https://lotargo.github.io/public_sonata_ai_landing/) |
+| AI provider infrastructure | [Nexus API Balancer](https://github.com/Lotargo/Nexus_API_Balancer) | [Live landing](https://lotargo.github.io/Nexus_API_Balancer/) |
+| Agentic document systems | [Academic Pipeline Engine](https://github.com/Lotargo/Academic-Pipeline-Engine) | [Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/) |
+| Static browser runtime experiments | [CSS-Server](https://github.com/Lotargo/css-server) | [Live landing](https://lotargo.github.io/css-server/) |
+| Local-first AI tooling | [ComfyUI Meta Viewer](https://github.com/Lotargo/ComfyUI-Meta-Viewer) | [Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/) |
+| Verification mindset | [Verification Lab](https://github.com/Lotargo/verification-lab-1) | — |
+| Unusual multi-language systems | [Necromancer](https://github.com/Lotargo/Necromancer) · [Search Routers](https://github.com/Lotargo/Search_Routers) | [Necromancer live](https://lotargo.github.io/Necromancer/) |
 
 ---
 
