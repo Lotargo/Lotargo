@@ -14,6 +14,14 @@ I build AI-oriented systems where the moving parts are visible: custom runtimes,
 
 ---
 
+## In 5 seconds
+
+- **Low-level AI runtimes:** custom tensor/autograd research, GPU/CPU dispatch, quantization paths, and runtime experiments outside mainstream Python frameworks.
+- **AI/RAG infrastructure:** retrieval systems, provider routing, agentic pipelines, runtime contracts, and verification-focused orchestration.
+- **Local-first tools that run:** public apps and demos with real interfaces, persistent state, export flows, landing pages, and clear operational boundaries.
+
+---
+
 ## What I do
 
 - **Low-level AI runtime research** — tensor execution, custom autograd, GPU/CPU dispatch, quantization paths, and training infrastructure outside mainstream Python frameworks.
@@ -31,6 +39,7 @@ I build AI-oriented systems where the moving parts are visible: custom runtimes,
 | From-scratch AI runtime | [Sonata AI public evidence dossier](https://github.com/Lotargo/public_sonata_ai_landing) |
 | AI provider infrastructure | [Nexus API Balancer](https://github.com/Lotargo/Nexus_API_Balancer) · [Live landing](https://lotargo.github.io/Nexus_API_Balancer/) |
 | Agentic document systems | [Academic Pipeline Engine](https://github.com/Lotargo/Academic-Pipeline-Engine) · [Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/) |
+| Static browser runtime experiments | [CSS-Server](https://github.com/Lotargo/css-server) · [Live landing](https://lotargo.github.io/css-server/) |
 | Local-first AI tooling | [ComfyUI Meta Viewer](https://github.com/Lotargo/ComfyUI-Meta-Viewer) · [Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/) |
 | Verification mindset | [Verification Lab](https://github.com/Lotargo/verification-lab-1) |
 | Unusual multi-language systems | [Necromancer](https://github.com/Lotargo/Necromancer) · [Search Routers](https://github.com/Lotargo/Search_Routers) |
@@ -98,6 +107,17 @@ Sonata implements a custom tensor computation, automatic differentiation, and ne
 **Status:** Public infrastructure project  
 **Demonstrates:** dynamic model discovery, priority routing, OpenAI-compatible gateway behavior, client isolation, key balancing, MCP support, and Rust service architecture.  
 **Stack:** Rust 2024, Tokio, Axum, SQLx, SQLite, JWT, Scalar.
+
+---
+
+### CSS-Server
+
+**Static browser runtime where CSS does the computation.**
+
+**Open:** **[Repository](https://github.com/Lotargo/css-server)** · **[Live landing](https://lotargo.github.io/css-server/)**  
+**Status:** Public runtime experiment / static-site boundary test  
+**Demonstrates:** DOM-as-memory architecture, CSS evaluation as a computation layer, calculator proof module, static GitHub Pages runtime shell, outbound browser transport, and explicit backend-boundary documentation.  
+**Stack:** Rust, Tauri 2, HTML, CSS, SCSS, JavaScript, SQLite, GitHub Pages.
 
 ---
 
@@ -178,7 +198,7 @@ These projects are not positioned as production-ready applications. They are exp
 
 ## Current direction
 
-I am currently focused on **low-level AI runtime research**, **AI/RAG systems architecture**, **RAG/vector systems**, **database-backed retrieval**, **local developer tools**, **model/provider routing**, and **verification-friendly research prototypes**. Some larger research work remains private until the claims, limitations, and reproducibility boundaries are clear enough for public documentation.
+I am currently focused on **low-level AI runtime research**, **AI/RAG systems architecture**, **RAG/vector systems**, **database-backed retrieval**, **local developer tools**, **model/provider routing**, **static browser runtime experiments**, and **verification-friendly research prototypes**. Some larger research work remains private until the claims, limitations, and reproducibility boundaries are clear enough for public documentation.
 
 ---
 
