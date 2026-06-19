@@ -1,20 +1,52 @@
 <div align="center">
 
-# Lotargo
+# Oleg Boyko / Lotargo
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=750&color=36BCF7&center=true&vCenter=true&width=900&lines=Low-level+AI+runtimes+%E2%80%A2+RAG+%E2%80%A2+agentic+systems;Local-first+tools+with+real+interfaces;Runtime+contracts+%2B+state+machines+%2B+provider+routing;From+experimental+ideas+to+working+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=750&color=36BCF7&center=true&vCenter=true&width=940&lines=AI+systems+architecture+%E2%80%A2+low-level+runtime+experiments;RAG+%E2%80%A2+vector+systems+%E2%80%A2+agentic+pipelines;Local-first+AI+tools+with+real+interfaces;From+experimental+ideas+to+working+software" alt="Typing SVG" />
 
-**AI systems architect · low-level AI runtime experiments · RAG/vector systems · local-first tooling**
+**AI systems architect · low-level AI runtime experiments · RAG/vector systems · local-first AI tooling**
 
-I design and build AI-oriented systems that combine retrieval, orchestration, provider routing, local-first tooling, verification, and low-level runtime experiments. My focus is architecture that can survive contact with implementation: visible system boundaries, reproducible behavior, and clear failure modes.
+I build AI-oriented systems where the moving parts are visible: custom runtimes, retrieval infrastructure, provider routing, local-first tools, runtime contracts, and verification-focused prototypes.
+
+**Start here:** [Sonata AI dossier](https://github.com/Lotargo/public_sonata_ai_landing) · [Featured systems](#featured-systems) · [Research labs](#research--proofs-of-concept) · [Toolbox](#toolbox)
 
 </div>
 
 ---
 
-## Core thesis
+## What I do
 
-I prefer systems where the moving parts are visible: state machines over mystery flow, contracts over vague prompts, provider abstraction over hard lock-in, and local reproducibility over screenshots-only demos.
+- **Low-level AI runtime research** — tensor execution, custom autograd, GPU/CPU dispatch, quantization paths, and training infrastructure outside mainstream Python frameworks.
+- **RAG and vector systems** — retrieval, indexing, metadata pipelines, semantic search, database-backed orchestration, and source-aware workflows.
+- **Agentic infrastructure** — runtime contracts, reviewer loops, state machines, provider routing, local gateways, and MCP-style tooling.
+- **Local-first AI tools** — practical applications with real interfaces, persistent storage, export flows, inspectable behavior, and reproducible local state.
+- **Verification-friendly prototypes** — experiments with explicit limits, public evidence, failure modes, and reproducibility packs where possible.
+
+---
+
+## Proof snapshot
+
+| Area | Public evidence |
+|---|---|
+| From-scratch AI runtime | [Sonata AI public evidence dossier](https://github.com/Lotargo/public_sonata_ai_landing) |
+| AI provider infrastructure | [Nexus API Balancer](https://github.com/Lotargo/Nexus_API_Balancer) · [Live landing](https://lotargo.github.io/Nexus_API_Balancer/) |
+| Agentic document systems | [Academic Pipeline Engine](https://github.com/Lotargo/Academic-Pipeline-Engine) · [Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/) |
+| Local-first AI tooling | [ComfyUI Meta Viewer](https://github.com/Lotargo/ComfyUI-Meta-Viewer) · [Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/) |
+| Verification mindset | [Verification Lab](https://github.com/Lotargo/verification-lab-1) |
+| Unusual multi-language systems | [Necromancer](https://github.com/Lotargo/Necromancer) · [Search Routers](https://github.com/Lotargo/Search_Routers) |
+
+---
+
+## Engineering style
+
+I usually prefer:
+
+- state machines over mystery flow
+- contracts over vague prompts
+- orchestration separated from execution
+- provider abstraction over hard lock-in
+- local reproducibility over screenshots-only demos
+- visible failure modes over silent magic
 
 ```text
 idea
@@ -28,7 +60,7 @@ idea
 
 ---
 
-## Flagship private research
+## Flagship research
 
 ### Sonata AI
 
@@ -36,7 +68,7 @@ idea
 
 Sonata implements a custom tensor computation, automatic differentiation, and neural-network training runtime from scratch. The private runtime is built primarily in **Free Pascal**, accelerated with **x86-64 Assembly** and a **CUDA C++ GPU backend**. The public repository is not the source code; it is a curated technical dossier containing selected architecture notes, benchmark evidence, limitations, and claim boundaries.
 
-**Public surface:** **[Evidence dossier repository](https://github.com/Lotargo/public_sonata_ai_landing)** · **[Browse public dossier](https://lotargo.github.io/public_sonata_ai_landing/)**  
+**Open:** **[Evidence dossier repository](https://github.com/Lotargo/public_sonata_ai_landing)** · **[Browse public dossier](https://lotargo.github.io/public_sonata_ai_landing/)**  
 **Status:** Closed-source research platform · public evidence archive  
 **Demonstrates:** custom tensor/autograd runtime, GPU execution, INT8 quantization, Mamba-style sequence modeling, symbolic-control experiments, transport framing, and evidence-first documentation.  
 **Stack:** Free Pascal, x86-64 Assembly, CUDA C++, custom runtime, GPU kernels, technical dossier.
@@ -45,13 +77,13 @@ Sonata implements a custom tensor computation, automatic differentiation, and ne
 
 ---
 
-## Featured public systems
+## Featured systems
 
 ### Academic Pipeline Engine
 
 **Local agentic workspace for structured document generation.**
 
-**Public surface:** **[Repository](https://github.com/Lotargo/Academic-Pipeline-Engine)** · **[Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/)**  
+**Open:** **[Repository](https://github.com/Lotargo/Academic-Pipeline-Engine)** · **[Live landing](https://lotargo.github.io/Academic-Pipeline-Engine/)**  
 **Status:** Public application / local-first agentic workspace  
 **Demonstrates:** artifact routing, runtime contracts, Writer/Reviewer loop, FSM orchestration, OCR/web research flow, SQLite history, DOCX/PDF export, and reproducible document pipelines.  
 **Stack:** Python 3.12, FastAPI, Next.js, React, TypeScript, SQLite, Poetry, Docker.
@@ -62,7 +94,7 @@ Sonata implements a custom tensor computation, automatic differentiation, and ne
 
 **High-performance AI provider gateway and key balancer.**
 
-**Public surface:** **[Repository](https://github.com/Lotargo/Nexus_API_Balancer)** · **[Live landing](https://lotargo.github.io/Nexus_API_Balancer/)**  
+**Open:** **[Repository](https://github.com/Lotargo/Nexus_API_Balancer)** · **[Live landing](https://lotargo.github.io/Nexus_API_Balancer/)**  
 **Status:** Public infrastructure project  
 **Demonstrates:** dynamic model discovery, priority routing, OpenAI-compatible gateway behavior, client isolation, key balancing, MCP support, and Rust service architecture.  
 **Stack:** Rust 2024, Tokio, Axum, SQLx, SQLite, JWT, Scalar.
@@ -73,7 +105,7 @@ Sonata implements a custom tensor computation, automatic differentiation, and ne
 
 **Local gallery and metadata manager for ComfyUI-generated images.**
 
-**Public surface:** **[Repository](https://github.com/Lotargo/ComfyUI-Meta-Viewer)** · **[Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/)**  
+**Open:** **[Repository](https://github.com/Lotargo/ComfyUI-Meta-Viewer)** · **[Live landing](https://lotargo.github.io/ComfyUI-Meta-Viewer/)**  
 **Status:** Public local-first tooling  
 **Demonstrates:** prompt extraction, workflow graph inspection, EXIF parsing, folder indexing, object cutouts, fuzzy search, gallery navigation, and persistent local cache.  
 **Stack:** Python, Flask, SQLite, Pydantic, Pillow, Vanilla JS, Fuse.js.
@@ -84,7 +116,7 @@ Sonata implements a custom tensor computation, automatic differentiation, and ne
 
 **Cyber-occult local AI chat system with a retro CRT interface.**
 
-**Public surface:** **[Repository](https://github.com/Lotargo/Necromancer)** · **[Live landing](https://lotargo.github.io/Necromancer/)**  
+**Open:** **[Repository](https://github.com/Lotargo/Necromancer)** · **[Live landing](https://lotargo.github.io/Necromancer/)**  
 **Status:** Public experimental application  
 **Demonstrates:** PostgreSQL-backed accounts/history, FreePascal backend daemon, Lua provider balancer, Pascal sandbox, RAG/search tools, Canvas effects, Web Audio atmosphere, and a highly stylized local AI interface.  
 **Stack:** Free Pascal, PHP 8.3, Lua/LuaJIT, PostgreSQL, Docker, JavaScript, Canvas, Web Audio.
@@ -97,7 +129,7 @@ These projects are not positioned as production-ready applications. They are exp
 
 ### Verification Lab
 
-**Public surface:** **[Repository](https://github.com/Lotargo/verification-lab-1)**  
+**Open:** **[Repository](https://github.com/Lotargo/verification-lab-1)**  
 **Status:** Reproducibility lab  
 **Research angle:** retrieval-pipeline integrity, analytical correctness, adversarial rejection, singular-state handling, and independently audited SAT/3-SAT solver experiments.  
 **Stack:** Python, numerical verification, symbolic checks, SAT/DPLL/CDCL, reproducibility packs.
@@ -106,7 +138,7 @@ These projects are not positioned as production-ready applications. They are exp
 
 ### Search Routers
 
-**Public surface:** **[Repository](https://github.com/Lotargo/Search_Routers)**  
+**Open:** **[Repository](https://github.com/Lotargo/Search_Routers)**  
 **Status:** Proof of concept  
 **Research angle:** minimal two-stage LLM routing pipeline implemented in Pascal and x86-64 Assembly to test how little runtime support is required for client-side AI routing logic.  
 **Stack:** Free Pascal, x86-64 Assembly, Groq API, curl/OpenSSL.
@@ -115,24 +147,10 @@ These projects are not positioned as production-ready applications. They are exp
 
 ### The Living Bunker
 
-**Public surface:** **[Repository](https://github.com/Lotargo/The-Living-Bunker)**  
+**Open:** **[Repository](https://github.com/Lotargo/The-Living-Bunker)**  
 **Status:** Active prototype  
 **Research angle:** observable multi-agent society sandbox for AI roles, asymmetric perception, constrained communication, repeatable scenarios, and emergent social behavior in a shared world.  
 **Stack:** Python, Flask, TypeScript/JavaScript, Groq, Cerebras, Pillow, pytest.
-
----
-
-## What I build
-
-- **Low-level AI runtime experiments**: tensor execution, custom autograd, GPU/CPU dispatch, quantization paths, and training infrastructure outside mainstream Python frameworks.
-- **Custom RAG and database-backed systems** for retrieval, indexing, metadata pipelines, semantic search, and source-aware orchestration.
-- **Agentic systems** with explicit orchestration, reviewer loops, runtime contracts, state machines, and quality gates.
-- **AI infrastructure** for model/provider routing, key balancing, client isolation, MCP-style tooling, and local gateways.
-- **Local-first applications** that keep useful data on the user's machine: galleries, metadata indexes, sandboxes, registries, and export pipelines.
-- **Experimental interfaces** where aesthetics and architecture are both part of the product: CRT terminals, simulations, procedural assets, and interactive visual proof.
-- **Unusual multi-language stacks** when they make sense: Python, Rust, TypeScript, Free Pascal, PHP, Lua, Assembly, C/C++, and plain JavaScript all have their place.
-
-> Some of my larger research and implementation work is staged in private repositories. Public documentation and reproducibility packs are published gradually as claims, limitations, and safety boundaries become clear.
 
 ---
 
