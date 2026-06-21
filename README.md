@@ -8,7 +8,13 @@
 
 I build AI-oriented systems where the moving parts are visible: custom runtimes, retrieval infrastructure, provider routing, local-first tools, runtime contracts, and verification-focused prototypes.
 
-**Start here:** [Sonata AI dossier](https://github.com/Lotargo/public_sonata_ai_landing) · [Sonata AI landing](https://lotargo.github.io/public_sonata_ai_landing/) · [Featured systems](#featured-systems) · [Research labs](#research--proofs-of-concept) · [Toolbox](#toolbox)
+<p>
+  <a href="https://lotargo.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-live%20landing-36BCF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio landing" />
+  </a>
+</p>
+
+**Start here:** [Portfolio landing](https://lotargo.github.io/) · [Sonata AI dossier](https://github.com/Lotargo/public_sonata_ai_landing) · [Sonata AI landing](https://lotargo.github.io/public_sonata_ai_landing/) · [Featured systems](#featured-systems) · [Research labs](#research--proofs-of-concept) · [Toolbox](#toolbox)
 
 </div>
 
